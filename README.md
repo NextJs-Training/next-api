@@ -8,6 +8,7 @@ tags:
   - typescript
 ---
 
+
 # Prisma + Next.js + Serverless-Next.js AWS Component
 
 ## Requirements
